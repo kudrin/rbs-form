@@ -1,0 +1,6 @@
+module User
+  interface _User
+    def first_name: () -> string
+    def last_name: () -> string
+  end
+end

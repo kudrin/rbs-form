@@ -1,0 +1,7 @@
+module User
+  class Form
+    extend _User
+
+    def validate: () -> boolish
+  end
+end

@@ -1,0 +1,5 @@
+module User
+  class Create
+    def initialize: (_User dto) -> void
+  end
+end
